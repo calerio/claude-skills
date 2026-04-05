@@ -1,7 +1,7 @@
 ---
 name: critical-evaluation
 description: >
-  Use this skill whenever Valerio uploads or pastes an article, essay, opinion piece, blog post, news report, academic paper, or any text and wants it critically analysed.
+  Use this skill whenever the user uploads or pastes an article, essay, opinion piece, blog post, news report, academic paper, or any text and wants it critically analysed.
   Triggers include phrases like "analyse this", "is this propaganda", "break this down", "evaluate this article", "what is the intent here", "go through this with the frameworks", "what's wrong with this argument", "is this legit", "steelman this", or any casual request to scrutinise a piece of writing.
   Always use this skill when an article or piece of writing is provided for critical scrutiny — even if the request is casual or the topic is unfamiliar.
   Produces a structured critical evaluation using combined analytical frameworks: genre detection, claim taxonomy with evidence quality, speech act analysis, rhetorical device identification, falsifiability assessment, intent classification, audience analysis, framing analysis, source evaluation, and a steelman of the core argument.
