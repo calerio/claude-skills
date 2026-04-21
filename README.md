@@ -19,10 +19,6 @@ Each skill follows a standard format with YAML frontmatter containing:
 - `name` — unique identifier
 - `description` — trigger conditions and capabilities
 
-## Contributing
-
-Feel free to open issues or PRs to suggest improvements to existing skills or propose new ones.
-
 ## License
 
 This project is licensed under the Apache License 2.0 — see the [LICENSE](LICENSE) file for details.
