@@ -7,6 +7,7 @@ A collection of custom skills for Claude Code and other AI coding assistants. Ea
 | Skill | Description | Status |
 |-------|-------------|--------|
 | [critical-evaluation](critical-evaluation/) | Structured, topic-agnostic framework for critically analysing articles, essays, opinion pieces, news reports, and academic papers. Combines multiple analytical lenses (claim taxonomy, speech act analysis, rhetorical devices, falsifiability, intent classification, and more) into one coherent evaluation. | Ready |
+| [lecture-explainer](lecture-explainer/) | Turns pasted lecture slides, textbook excerpts, or problem sets into proper study notes — every definition, theorem, and proof unpacked with intuition and worked examples. | Ready |
 
 ## Usage
 
